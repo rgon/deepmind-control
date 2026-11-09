@@ -2,7 +2,7 @@
 #
 #   1. bump `version` in Cargo.toml and merge it
 #   2. tools/previews.fish --check
-#   3. git tag v26.1.0 && git push origin v26.1.0
+#   3. git tag v26.2.0 && git push origin v26.2.0
 #
 # The version is a line a person edits (see "Versioning" in docs/plan.md), so
 # this job does not compute one: it checks that the tag says what the tree says,

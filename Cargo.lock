@@ -653,7 +653,7 @@ checksum = "a6ef517f0926dd24a1582492c791b6a4818a4d94e789a334894aa15b0d12f55c"
 
 [[package]]
 name = "control"
-version = "26.1.0"
+version = "26.2.0"
 dependencies = [
  "control-ui",
  "deepmind-host",
@@ -668,7 +668,7 @@ dependencies = [
 
 [[package]]
 name = "control-plugin"
-version = "26.1.0"
+version = "26.2.0"
 dependencies = [
  "clap-sys",
  "control-ui",
@@ -679,7 +679,7 @@ dependencies = [
 
 [[package]]
 name = "control-ui"
-version = "26.1.0"
+version = "26.2.0"
 dependencies = [
  "deepmind-midi",
  "iced_core",
@@ -982,7 +982,7 @@ checksum = "be1e0bca6c3637f992fc1cc7cbc52a78c1ef6db076dbf1059c4323d6a2048376"
 
 [[package]]
 name = "deepmind-host"
-version = "26.1.0"
+version = "26.2.0"
 dependencies = [
  "deepmind-midi",
  "midir",

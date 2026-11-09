@@ -207,7 +207,7 @@ the same way as the ones somebody tested, and attaches every archive and
 ```
 # bump `version` in Cargo.toml and merge it, then
 tools/previews.fish --check
-git tag v26.1.0 && git push origin v26.1.0
+git tag v26.2.0 && git push origin v26.2.0
 ```
 
 The tag has to equal the version in `Cargo.toml`, or the run stops before it
